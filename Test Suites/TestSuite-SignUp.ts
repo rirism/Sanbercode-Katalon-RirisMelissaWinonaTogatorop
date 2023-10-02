@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TestSuiteSignIn</name>
+   <name>TestSuite-SignUp</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,5 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>4948874e-b193-4d93-9470-eee2a4be9ca4</testSuiteGuid>
+   <testSuiteGuid>4676460d-d3b2-4f66-b276-0c76452d630a</testSuiteGuid>
 </TestSuiteEntity>
